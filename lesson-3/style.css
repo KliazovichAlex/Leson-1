@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.awesom {
+    width: 1400px;
+    text-align: center;
+}
+
+.description {
+    font-size: 14px;
+    color: #86878b;
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    margin: 107 auto;
+}
+
+.description {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    background-color: orange;
+    margin: 30px auto;
+   
+}
+
+.card__image {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 30px;
+    border: 2px solid orange;
+    border-radius: 50%;
+    background-image: url(/images/);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.card__title {
+    margin-bottom: 30px;
+}
+
+.wrapper {
+    width: 1110px;
+    margin: 0 auto;
+   
+
+}
+.card {
+    float: left;
+    width: 350px;
+}
+
+.m-lr-30 {
+    margin: 0 30px;
+}
+
+.awesom__header {
+    margin-bottom: 80px;
+
+}
